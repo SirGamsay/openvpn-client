@@ -54,7 +54,7 @@ Feel free to fork the repository and submit pull requests. If you have suggestio
 Please ensure your code follows the coding style, includes tests (currently we have None), and passes all tests (again, we don't have tests).
 
 ## Code of Conduct
-By contributing, you agree to follow our Code of Conduct (coming soon).
+By contributing, you agree to follow our Code of Conduct [CODE OF CONDUCT](CODE_OF_CONDUCT.md).
 
 ## Disclaimer
 This software is provided "as-is" without warranty of any kind. The author is not responsible for any damage caused by the use of this software.
