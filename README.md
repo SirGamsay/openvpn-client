@@ -1,4 +1,5 @@
 # openvpn-client
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
 OpenVPN-Client is a simple terminal interface for managing multiple OpenVPN sessions. It supports:
 - Starting and stopping OpenVPN sessions.
